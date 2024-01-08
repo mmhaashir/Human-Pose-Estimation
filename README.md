@@ -3,7 +3,7 @@
 ## Introduction <a name="intro">
 This Python project focuses on Human Pose Estimation using the SARSA (λ) algorithm. The goal is to predict and visualize the key points of a person's body, creating a detailed representation of their pose.
 
-![dav_image](https://deeplobe.ai/wp-content/uploads/2023/04/Pose-Detection-Athletics-Image.png)https://deeplobe.ai/wp-content/uploads/2023/04/Pose-Detection-Athletics-Image.png)
+![dav_image](https://deeplobe.ai/wp-content/uploads/2023/04/Pose-Detection-Athletics-Image.png)
 
 ## Table of Contents
 - [**Introduction**](#intro)
